@@ -1,0 +1,11 @@
+./dwxquickfix/Helpers.java
+./dwxquickfix/Tick.java
+./dwxquickfix/TickTOB.java
+./dwxquickfix/Order.java
+./dwxquickfix/ExecutionReport.java
+./dwxquickfix/TickProcessor.java
+./dwxquickfix/History.java
+./dwxquickfix/Sender.java
+./dwxquickfix/App.java
+./dwxquickfix/Client.java
+./TestClient.java
